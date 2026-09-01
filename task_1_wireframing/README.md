@@ -24,4 +24,4 @@ Figma
 The wireframes focus on clear navigation, simple user flows, usability, and a structured food-ordering experience.
 
 ## Figma Design
-Figma link will be added here.
+https://www.figma.com/design/pnOOEXH1sGwWjNUO4WEMRI/Untitled?node-id=0-1&t=0Be6P1TUAc0EgWUa-1

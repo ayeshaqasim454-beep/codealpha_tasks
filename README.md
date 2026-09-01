@@ -1,14 +1,61 @@
-# 🍽️ Saveur — Food Ordering App
+# 🍽️ CodeAlpha UI/UX Internship Tasks
 
-**Saveur** is a modern, elegant food ordering web application designed to provide a smooth and visually refined browsing and ordering experience.
+A collection of my UI/UX projects completed as part of the **CodeAlpha UI/UX Internship — August 2026 Batch**.
 
-The project combines a premium user interface with an intuitive food discovery, product, cart, and checkout flow.
+This repository contains both completed tasks, covering **wireframing, low-fidelity design, interface design, user flows, and frontend implementation**.
 
-## 🎯 Project Overview
+---
 
-Saveur was developed as part of my **CodeAlpha UI/UX Internship**.
+## 📌 Task 1 — Wireframing & Low-Fidelity Design
 
-The application focuses on creating a polished food-ordering experience with clear navigation, strong visual hierarchy, interactive components, and a premium design aesthetic.
+### BiteBuddy — Food Delivery Mobile App
+
+**Tool:** Figma
+**Type:** Mobile App Wireframes
+
+Task 1 focuses on creating low-fidelity wireframes for a food delivery application with a clear and intuitive user journey.
+
+### Screens Included
+
+* 🏠 Home
+* 🔎 Search & Categories
+* 🍔 Restaurant / Menu
+* 📋 Item Detail
+* 🛒 Cart
+* 💳 Checkout
+* 📦 Order Status
+* 👤 Profile
+* 🧾 Order History
+
+### Design Focus
+
+* Clear navigation
+* Simple user flows
+* Usability
+* Structured information hierarchy
+* Consistent mobile layout
+* Intuitive food-ordering experience
+
+### 🔗 Task 1 Resources
+
+**[View Task 1 Files](./task_1_wireframing/)**
+
+**[View Wireframes in Figma](https://www.figma.com/design/pnOOEXH1sGwWjNUO4WEMRI/Untitled?node-id=0-1&t=0Be6P1TUAc0EgWUa-1)**
+
+---
+
+# 🍴 Task 2 — Saveur Food Ordering App
+
+### Saveur — Food Ordering App
+
+**Technologies:** React · TypeScript · Vite · CSS
+**Type:** Responsive Food Ordering Web Application
+
+Saveur is a modern food-ordering web application designed to provide a smooth, elegant, and visually refined browsing and ordering experience.
+
+The project focuses on food discovery, product details, cart management, checkout, navigation, and a polished overall user experience.
+
+---
 
 ## ✨ Features
 
@@ -23,18 +70,13 @@ The application focuses on creating a polished food-ordering experience with cle
 * 📦 Checkout flow
 * 👤 Profile section
 * 📱 Responsive interface
-* 🎨 Premium, elegant visual design
+* 🎨 Premium visual design
 
-## 🛠️ Technologies
-
-* **React**
-* **TypeScript**
-* **Vite**
-* **CSS**
+---
 
 ## 🎨 Design Approach
 
-Saveur is designed around a premium food-app experience, focusing on:
+Saveur was designed with a focus on:
 
 * Clean visual hierarchy
 * Consistent spacing and alignment
@@ -43,11 +85,29 @@ Saveur is designed around a premium food-app experience, focusing on:
 * Modern UI components
 * Responsive layouts
 * User-friendly ordering flow
+* Premium visual aesthetics
+
+---
+
+## 🛠️ Technologies
+
+* **React**
+* **TypeScript**
+* **Vite**
+* **CSS**
+
+---
 
 ## 📁 Project Structure
 
 ```text
 codealpha_tasks/
+│
+├── task_1_wireframing/
+│   ├── README.md
+│   └── wireframes/
+│       ├── Task 1 Screenshot 1
+│       └── Task 1 Screenshot 2
 │
 ├── demo/
 │   └── Screen Recording 2026-08-29 173850.mp4
@@ -67,33 +127,39 @@ codealpha_tasks/
 └── vite.config.ts
 ```
 
-## 🎥 Demo
+---
+
+## 🎥 Task 2 Demo
 
 A complete walkthrough of **Saveur** is available in the `demo` folder.
 
-The demonstration showcases the application's interface, navigation, food discovery, product details, cart experience, and overall user flow.
+The demonstration showcases the application's interface, navigation, food discovery, product details, cart experience, and overall ordering flow.
 
-## 🚀 Getting Started
+**[View Demo Folder](./demo/)**
 
-### Clone the repository
+---
+
+# 🚀 Running Task 2 Locally
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/ayeshaqasim454-beep/codealpha_tasks.git
 ```
 
-### Navigate to the project
+### 2. Navigate to the project
 
 ```bash
 cd codealpha_tasks
 ```
 
-### Install dependencies
+### 3. Install dependencies
 
 ```bash
 pnpm install
 ```
 
-### Start the development server
+### 4. Start the development server
 
 ```bash
 pnpm dev
@@ -101,11 +167,16 @@ pnpm dev
 
 Vite will provide the local development URL in the terminal.
 
-## 📌 Internship
+---
 
-**CodeAlpha UI/UX Internship Task 2 — August 2026 Batch**
+## 📋 Internship Details
 
-**Project:** Saveur — Food Ordering App
+**Organization:** CodeAlpha
+**Domain:** UI/UX Design
+**Batch:** August 2026
+**Completed Tasks:** Task 1 & Task 2
+
+---
 
 ## 👩‍💻 Author
 
@@ -115,4 +186,4 @@ GitHub: `ayeshaqasim454-beep`
 
 ---
 
-*Designed and developed with a focus on creating a refined, intuitive, and engaging food-ordering experience.*
+*Designed and developed with a focus on intuitive user experiences, thoughtful interface design, and polished digital products.*
